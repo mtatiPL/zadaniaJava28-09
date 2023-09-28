@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test ui</string>
+    <string name="zalogowano">Poprawnie zalogowano</string>
+    <string name="niewypelnione">Wszystkie pola sa obowiazkowe</string>
+    <array name="zakupy">
+        <item>chleb</item>
+        <item>maslo</item>
+        <item>banany</item>
+    </array>
+</resources>
